@@ -62,3 +62,11 @@ MongoDB • MySQL
 Docker • Git • GitHub • Postman • VS Code
 
 ---
+
+---
+
+## 🤝 Connect With Me
+
+💼 Open to collaboration and exciting projects  
+📧 priyanshu.workwith@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/priyanshu-s02
