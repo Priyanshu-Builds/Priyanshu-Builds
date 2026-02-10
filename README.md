@@ -62,21 +62,3 @@ MongoDB • MySQL
 Docker • Git • GitHub • Postman • VS Code
 
 ---
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Priyanshu-Builds&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Priyanshu-Builds&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Builds&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Priyanshu-Builds&theme=algolia&no-frame=true&no-bg=true&margin-w=8)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Priyanshu-Builds&icon=0&color=0)](https://visitcount.itsvg.in)
