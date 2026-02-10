@@ -30,5 +30,3 @@ Containerizing full-stack apps using Docker for real-world deployment readiness.
 ![](https://nirzak-streak-stats.vercel.app/?user=Priyanshu-Builds&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Builds&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Priyanshu-Builds&theme=algolia&no-frame=true&no-bg=true&margin-w=8)
