@@ -10,8 +10,6 @@
 ## 🏅 GitHub Achievements
 
 🥇 Pull Shark – Successfully merged pull requests  
-🐳 Dockerized Applications – Containerizing full-stack apps  
-📦 Full-Stack Builder – MediStock & ShopWave
 
 <p align="left">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120"/>
