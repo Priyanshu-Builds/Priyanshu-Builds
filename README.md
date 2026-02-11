@@ -1,70 +1,64 @@
-<h1 align="center">Hi 👋, I'm Priyanshu</h1>
-<h3 align="center">Python Full-Stack Developer @ Volkswagen</h3>
+# Hi there, I'm Priyanshu 👋
 
-<p align="center">
-🚀 Building scalable web applications • Backend APIs • Dockerized Apps
-</p>
+**Software Engineer at Volkswagen Digital Solutions India** *Building scalable ecosystems, AI-driven solutions, and streamlined DevOps workflows.*
 
 ---
 
-## 🏅 GitHub Achievements
+### 👨‍💻 About Me
+I am a passionate Software Engineer currently focused on developing high-impact digital solutions at **Volkswagen Digital Solutions India**. With a strong foundation in **Full-Stack Development** and a growing expertise in **DevOps and AI/ML**, I thrive on turning complex problems into elegant, maintainable code. 
 
-🥇 Pull Shark – Successfully merged pull requests  
-
-<p align="left">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120"/>
-</p>
-
----
-
-## 💫 About Me
-
-🔭 Working on **MediStock – Medicine Inventory Management System**  
-🛒 Built **ShopWave – Full-Stack E-Commerce Platform**  
-🌱 Learning **Advanced Backend Architecture & System Design**  
-💬 Ask me about **Python • React • Node • MongoDB • Docker**
+- 🚀 Currently working on: Scalable enterprise applications and cloud-native architectures.
+- 🛠️ Technical Focus: Python, MERN Stack, Docker, and Kubernetes.
+- 🧠 Research Interest: Computer Vision and Generative AI integration.
+- 📍 Based in: Pune, India.
 
 ---
 
-## 🚀 Featured Projects
+### 🌟 Featured Projects
 
-### 💊 MediStock (Current Project)
-Modern medicine inventory system with stock, expiry tracking and sales.
+#### 🛒 **ShopWave – Full-Stack E-Commerce Ecosystem**
+*A scalable, high-performance e-commerce platform built for modern shoppers.*
+- **Tech Stack:** MongoDB, Express.js, React, Node.js, Redux.
+- **Key Feature:** Integrated secure payment gateways and a dynamic inventory management system with a focus on low-latency user experience.
 
-**Tech Stack:** React • Node.js • Express • MongoDB • Docker
+#### 👁️ **Sentinel Vision – AI Night Vision Surveillance**
+*AI-driven security system optimized for low-light environments.*
+- **Tech Stack:** Python, OpenCV, CNN, AWS Cloud.
+- **Key Feature:** Leverages deep learning to detect and track objects in real-time, deployed via AWS for high availability.
 
----
+#### 🤖 **Logical Fallacy Recognition**
+*An AI-powered tool to identify cognitive biases and fallacies in text.*
+- **Tech Stack:** Python, Flask, Gemini API.
+- **Key Feature:** Uses Large Language Models to analyze discourse and provide real-time feedback on logical consistency.
 
-### 🛒 ShopWave – Full-Stack E-Commerce Platform
-Complete e-commerce web application built during industry training.
-
-**Tech Stack:** Node.js • Express • MongoDB • JavaScript • HTML • CSS
-
----
-
-## 🧰 Tech Stack
-
-**Languages**  
-Python • JavaScript • SQL
-
-**Frontend**  
-React • HTML • CSS • Tailwind
-
-**Backend**  
-Node.js • Express • REST APIs
-
-**Database**  
-MongoDB • MySQL
-
-**DevOps & Tools**  
-Docker • Git • GitHub • Postman • VS Code
+#### 🌐 **Wandernest**
+*A personalized lodging platform designed for the modern traveler.*
+- **Tech Stack:** React, Node.js, Tailwind CSS.
+- **Key Feature:** Custom recommendation engine for lodging based on user preferences and travel patterns.
 
 ---
 
+### 🛠️ Technical Arsenal
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript (ES6+), SQL, C++ |
+| **Frontend** | React, Redux, Tailwind CSS, HTML5/CSS3 |
+| **Backend** | Node.js, Express.js, Flask, Django |
+| **Databases** | MySQL, MongoDB, PostgreSQL |
+| **DevOps & Cloud** | Docker, Kubernetes, AWS, Git, CI/CD |
+| **AI/ML** | OpenCV, TensorFlow, Gemini API, Scikit-learn |
+
 ---
 
-## 🤝 Connect With Me
+### 📊 GitHub Stats
+![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Builds&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Builds&layout=compact&theme=radical)
 
-💼 Open to collaboration and exciting projects  
-📧 priyanshu.workwith@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/priyanshu-s02
+---
+
+### 📫 Let's Connect
+- **LinkedIn:** [Priyanshu](www.linkedin.com/in/priyanshu-s02)
+- **Email:** [priyanshu.workwith@gmail.com]
+
+*"The best way to predict the future is to build it."*
