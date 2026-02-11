@@ -54,6 +54,6 @@ I am a passionate Software Engineer currently focused on developing high-impact 
 
 ### 📫 Let's Connect
 - **LinkedIn:** [Priyanshu](www.linkedin.com/in/priyanshu-s02)
-- **Email:** [priyanshu.workwith@gmail.com]
+- **Email:** priyanshu.workwith@gmail.com
 
 *"The best way to predict the future is to build it."*
