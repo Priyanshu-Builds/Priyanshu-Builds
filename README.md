@@ -1,6 +1,7 @@
 # Hi there, I'm Priyanshu 👋
 
-**Software Engineer at Volkswagen Digital Solutions India** *Building scalable ecosystems, AI-driven solutions, and streamlined DevOps workflows.*
+**Software Engineer at Volkswagen Digital Solutions India**
+*Building scalable ecosystems, AI-driven solutions, and streamlined DevOps workflows.*
 
 ---
 
@@ -48,12 +49,6 @@ I am a passionate Software Engineer currently focused on developing high-impact 
 | **Databases** | MySQL, MongoDB, PostgreSQL |
 | **DevOps & Cloud** | Docker, Kubernetes, AWS, Git, CI/CD |
 | **AI/ML** | OpenCV, TensorFlow, Gemini API, Scikit-learn |
-
----
-
-### 📊 GitHub Stats
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Builds&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Builds&layout=compact&theme=radical)
 
 ---
 
